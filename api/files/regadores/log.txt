@@ -1,0 +1,102 @@
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00Valor:Ligados
+Data:01-01-1970 01:00:00Valor:Desligados
+Data:01-01-1970 01:00:00 Valor:Ligados
+Data:01-01-1970 01:00:00 Valor:Desligados
+Data:2021-05-31 14:21 Valor:Ligados
+Data:2021-05-31 14:21 Valor:Desligados
+Data:01-01-1970 01:00:00 Valor:Ligados
+Data:01-01-1970 01:00:00 Valor:Desligados
+Data:01-01-1970 01:00:00 Valor:Ligados
+Data:01-01-1970 01:00:00 Valor:Desligados
+Data:01-01-1970 01:00:00 Valor:Ligados
+Data:01-01-1970 01:00:00 Valor:Desligados
+Data:01-01-1970 01:00:00 Valor:Ligados
+Data:2021-05-31 18:23 Valor:Desligados
+Data:2021-05-31 18:23 Valor:Ligados
+Data:2021-05-31 18:34 Valor:Desligados
+Data:2021-05-31 19:26 Valor:Ligados
+Data:2021-05-31 19:26 Valor:Desligados
+Data:2021-05-31 19:32 Valor:Ligados
+Data:2021-05-31 19:32 Valor:Desligados
+Data:2021-05-31 19:32 Valor:Ligados
+Data:2021-05-31 19:32 Valor:Desligados
+Data:2021-05-31 19:38 Valor:Ligados
+Data:2021-05-31 19:38 Valor:Desligados
+Data:2021-05-31 19:40 Valor:Ligados
+Data:2021-05-31 20:26 Valor:Desligados
+Data:2021-05-31 20:26 Valor:Ligados
+Data:2021-05-31 20:26 Valor:Desligados
+Data:2021-05-31 20:27 Valor:Ligados
+Data:2021-05-31 20:28 Valor:Desligados
+Data:2021-05-31 20:38 Valor:Ligados
+Data:2021-06-01 09:45 Valor:Desligados
+Data:2021-06-01 15:06 Valor:Ligados
+Data:2021-06-01 15:07 Valor:Desligados
+Data:2021-06-01 18:02 Valor:Ligados
+Data:2021-06-01 18:02 Valor:Desligados
+Data:2021-06-02 21:39 Valor:Ligados
+Data:2021-06-02 21:39 Valor:Desligados
+Data:2021-06-08 11:56 Valor:Ligados
+Data:2021-06-08 11:56 Valor:Desligados
+Data:2021-06-10 16:02 Valor:Ligados
+Data:2021-06-10 16:02 Valor:Desligados
+Data:2021-06-10 16:10 Valor:Ligados
+Data:2021-06-10 16:10 Valor:Desligados
+Data:2021-06-10 16:18 Valor:Ligados
+Data:2021-06-10 16:18 Valor:Desligados
+Data:2021-06-10 16:18 Valor:Ligados
+Data:2021-06-10 16:18 Valor:Desligados
+Data:2021-06-10 16:18 Valor:Ligados
+Data:2021-06-10 16:18 Valor:Desligados
+Data:2021-06-10 16:18 Valor:Ligados
+Data:2021-06-10 16:18 Valor:Desligados
+Data:2021-06-10 17:43 Valor:Ligados
+Data:2021-06-10 17:43 Valor:Desligados
+Data:2021-06-13 16:35 Valor:Ligados
+Data:2021-06-13 16:35 Valor:Desligados
+Data:2021-06-13 16:35 Valor:Ligados
+Data:2021-06-13 16:37 Valor:Desligados
+Data:2021-06-14 14:10 Valor:Ligados
+Data:2021-06-14 14:10 Valor:Desligados
